@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **larikhide/larikhide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello, my name is Peter!
+### Hello, my name is Peter! 👋
 
 #### Passionate Golang Developer
 
@@ -26,7 +25,7 @@ I'm a passionate Golang developer, open to new career opportunities.
 - 👯 I’m looking to collaborate on interesting and impactful projects.
 - 🤔 I’m looking for help with finding a mentor to enhance my coding skills.
 - 💬 Ask me about anything you'd like.
-- 📫 How to reach me: [Your contact information]
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/petr-ustyuzhanin/) [Telegram](https://t.me/p_ustyuzhanin) [e-mail](mailto:petrakliy@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Once while gazing at the ceiling, I noticed that flies follow jagged paths instead of smooth curves.
 
