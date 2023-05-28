@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=larikhide)
 
 ### Hello, my name is Peter! 👋
 
@@ -31,3 +30,4 @@ I'm a passionate Golang developer, open to new career opportunities.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Once while gazing at the ceiling, I noticed that flies follow jagged paths instead of smooth curves.
 
+![](https://komarev.com/ghpvc/?username=larikhide)
