@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello, my name is Peter!
+
+#### Passionate Golang Developer
+
+I'm a passionate Golang developer, open to new career opportunities.
+
+- 🔭 I’m currently working on updating my existing codebase.
+- 🌱 I’m currently learning about parallelism and concurrency.
+- 👯 I’m looking to collaborate on interesting and impactful projects.
+- 🤔 I’m looking for help with finding a mentor to enhance my coding skills.
+- 💬 Ask me about anything you'd like.
+- 📫 How to reach me: [Your contact information]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Once while gazing at the ceiling, I noticed that flies follow jagged paths instead of smooth curves.
+
