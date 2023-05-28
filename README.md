@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![larikhide's GitHub stats](https://github-readme-stats.vercel.app/api?username=larikhide)](https://github.com/larikhide/github-readme-stats)
 
 ### Hello, my name is Peter! 👋
 
@@ -32,3 +31,5 @@ I'm a passionate Golang developer, open to new career opportunities.
 - ⚡ Fun fact: Once while gazing at the ceiling, I noticed that flies follow jagged paths instead of smooth curves.
 
 ![](https://komarev.com/ghpvc/?username=larikhide)
+
+<!-- [![larikhide's GitHub stats](https://github-readme-stats.vercel.app/api?username=larikhide)](https://github.com/larikhide/github-readme-stats) -->
