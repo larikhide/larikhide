@@ -33,3 +33,5 @@ I'm a passionate Golang developer, open to new career opportunities.
 ![](https://komarev.com/ghpvc/?username=larikhide)
 
 <!-- [![larikhide's GitHub stats](https://github-readme-stats.vercel.app/api?username=larikhide)](https://github.com/larikhide/github-readme-stats) -->
+
+[![larikhide's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=larikhide&theme=dark)](https://github.com/larikhide/leetcode-stats)
