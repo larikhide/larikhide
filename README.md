@@ -24,7 +24,8 @@ I'm Petr, a Golang Developer with experience working in startups and with cloud 
 My passion is writing efficient, clean, and reusable code that adheres to best coding practices and helps to build better products that people and businesses love to use. Want to know more about me? [Feel free to visit my profile on LinkedIn!](https://www.linkedin.com/in/petr-ustyuzhanin/)  
 
 ![](https://komarev.com/ghpvc/?username=larikhide)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/petr-ustyuzhanin/)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/petr-ustyuzhanin/) 
+![Telegram Badge](https://img.shields.io/badge/Telegram-Messenger-0D76A8?&logo=telegram)
 
 
 <!-- [![larikhide's GitHub stats](https://github-readme-stats.vercel.app/api?username=larikhide)](https://github.com/larikhide/github-readme-stats) -->
