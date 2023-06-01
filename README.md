@@ -25,7 +25,7 @@ My passion is writing efficient, clean, and reusable code that adheres to best c
 
 ![](https://komarev.com/ghpvc/?username=larikhide)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/petr-ustyuzhanin/) 
-![Telegram Badge](https://img.shields.io/badge/Telegram-Messenger-0D76A8?&logo=telegram)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Messenger-0D76A8?&logo=telegram)](https://t.me/p_ustyuzhanin)
 
 
 <!-- [![larikhide's GitHub stats](https://github-readme-stats.vercel.app/api?username=larikhide)](https://github.com/larikhide/github-readme-stats) -->
