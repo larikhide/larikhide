@@ -1,5 +1,3 @@
-![friday](https://github.com/larikhide/larikhide/assets/46977732/36bba227-d668-4cda-bf81-9d98db5c29ed)
-
 <!--
 **larikhide/larikhide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,25 +13,45 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+    <img width="200" src="./src/img/github_header.gif" alt="12oz mouse">
+</p>
 
-### Hello, my name is Peter! 👋
+Hey there 👋
 
-#### Passionate Golang Developer
+I'm Petr, a Golang Developer with experience working in startups and with cloud technologies such as AWS S3 and streams. My main specialization is backend development for server applications. I am also interested in mobile development, information security, and the latest advancements in artificial intelligence.
 
-I'm a passionate Golang developer, open to new career opportunities.
-
-- 🔭 I’m currently working on updating my existing codebase.
-- 🌱 I’m currently learning about parallelism and concurrency.
-- 👯 I’m looking to collaborate on interesting and impactful projects.
-- 🤔 I’m looking for help with finding a mentor to enhance my coding skills.
-- 💬 Ask me about anything you'd like.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/petr-ustyuzhanin/) [Telegram](https://t.me/p_ustyuzhanin) [e-mail](mailto:petrakliy@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Once while gazing at the ceiling, I noticed that flies follow jagged paths instead of smooth curves.
+My passion is writing efficient, clean, and reusable code that adheres to best coding practices and helps to build better products that people and businesses love to use. Want to know more about me? [Feel free to visit my profile on LinkedIn!](https://www.linkedin.com/in/petr-ustyuzhanin/)  
 
 ![](https://komarev.com/ghpvc/?username=larikhide)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/petr-ustyuzhanin/)  
+
 
 <!-- [![larikhide's GitHub stats](https://github-readme-stats.vercel.app/api?username=larikhide)](https://github.com/larikhide/github-readme-stats) -->
 
-<!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=petrakliy&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
- -->
+ -->  
+
+## Skills
+
+![](https://img.shields.io/badge/Go%2FGolang-0D76A8?&logo=go)
+![](https://img.shields.io/badge/-REST%20API-0D76A8)
+![](https://img.shields.io/badge/-gRPC-0D76A8)
+![](https://img.shields.io/badge/SQL%2FNoSQL-0D76A8)
+![](https://img.shields.io/badge/HTTP-0D76A8)
+![](https://img.shields.io/badge/TCP%2FIP-0D76A8)
+![](https://img.shields.io/badge/Linux-0D76A8?&logo=linux)
+![](https://img.shields.io/badge/Docker-0D76A8?&logo=docker)
+![](https://img.shields.io/badge/Git-0D76A8?&logo=git)
+
+![]()
+
+
+<details>
+<summary>More Skills</summary>
+
+[]()
+![]()
+![]()
+![]()
+
+</details>
