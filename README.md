@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <img width="200" src="./src/img/github_header.gif" alt="12oz mouse">
 </p>
 
-Hey there 👋
+## Hey there 👋
 
 I'm Petr, a Golang Developer with experience working in startups and with cloud technologies such as AWS S3 and streams. My main specialization is backend development for server applications. I am also interested in mobile development, information security, and the latest advancements in artificial intelligence.
 
