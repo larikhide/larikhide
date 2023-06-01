@@ -1,3 +1,4 @@
+![friday](https://github.com/larikhide/larikhide/assets/46977732/36bba227-d668-4cda-bf81-9d98db5c29ed)
 
 <!--
 **larikhide/larikhide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
