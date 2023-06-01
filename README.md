@@ -29,8 +29,6 @@ My passion is writing efficient, clean, and reusable code that adheres to best c
 
 <!-- [![larikhide's GitHub stats](https://github-readme-stats.vercel.app/api?username=larikhide)](https://github.com/larikhide/github-readme-stats) -->
 
- -->  
-
 ## Skills
 
 ![](https://img.shields.io/badge/Go%2FGolang-0D76A8?&logo=go)
@@ -45,7 +43,7 @@ My passion is writing efficient, clean, and reusable code that adheres to best c
 
 ![]()
 
-
+<!--
 <details>
 <summary>More Skills</summary>
 
@@ -54,4 +52,4 @@ My passion is writing efficient, clean, and reusable code that adheres to best c
 ![]()
 ![]()
 
-</details>
+</details> -->
