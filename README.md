@@ -41,6 +41,9 @@ My passion is writing efficient, clean, and reusable code that adheres to best c
 ![](https://img.shields.io/badge/Linux-0D76A8?&logo=linux)
 ![](https://img.shields.io/badge/Docker-0D76A8?&logo=docker)
 ![](https://img.shields.io/badge/Git-0D76A8?&logo=git)
+![](https://img.shields.io/badge/PostgreSQL-0D76A8?&logo=#4169E1)
+![](https://img.shields.io/badge/Redis-0D76A8?&logo=#DC382D)
+![](https://img.shields.io/badge/MongoDB-0D76A8?&logo=#47A248)
 
 ![]()
 
